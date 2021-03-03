@@ -1,4 +1,5 @@
 import React from "react";
+import "../stylesheets/HeaderForm.css";
 
 function HeaderForm(props) {
   const handleInboxFilter = (ev) => {

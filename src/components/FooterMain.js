@@ -30,7 +30,7 @@ const FooterMain = () => {
         <Route path="/" children={renderLinkToHome} />
       </small>
       <small className="text--primary-light text-align-right">
-        Ejercicio de React / Desarrollado con ❤ Adalab
+        Ejercicio de React / Curso de Adalab
       </small>
     </div>
   );

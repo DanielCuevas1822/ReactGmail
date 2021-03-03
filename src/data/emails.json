@@ -28,5 +28,25 @@
     "deleted": false,
     "read": true,
     "body": "How We 30x-ed Our Node Parallelism — An interesting write up of how one team safely increased the parallelism of their Node-based service. You might find things to argue with here, but this is real world stuff.<br/>Node v13.6.0 (Current) Released — The usual tweaks and minor improvements. perf_hooks is no longer experimental, the REPL gains zsh-style reverse searching, and there are two new assert methods for when using regular expressions (assert.match and assert.doesNotMatch)."
+  },
+  {
+    "id": "grok4",
+    "fromName": "Node Weekly2",
+    "fromEmail": "node@cooperpress.com",
+    "date": "22:41",
+    "subject": "Node news2",
+    "deleted": false,
+    "read": false,
+    "body": "How We 30x-ed Our Node Parallelism — An interesting write up of how one team safely increased the parallelism of their Node-based service. You might find things to argue with here, but this is real world stuff.<br/>Node v13.6.0 (Current) Released — The usual tweaks and minor improvements. perf_hooks is no longer experimental, the REPL gains zsh-style reverse searching, and there are two new assert methods for when using regular expressions (assert.match and assert.doesNotMatch)."
+  },
+  {
+    "id": "rejh43",
+    "fromName": "Node Weekly3",
+    "fromEmail": "node@cooperpress.com",
+    "date": "21:41",
+    "subject": "Node news3",
+    "deleted": false,
+    "read": false,
+    "body": "How We 30x-ed Our Node Parallelism — An interesting write up of how one team safely increased the parallelism of their Node-based service. You might find things to argue with here, but this is real world stuff.<br/>Node v13.6.0 (Current) Released — The usual tweaks and minor improvements. perf_hooks is no longer experimental, the REPL gains zsh-style reverse searching, and there are two new assert methods for when using regular expressions (assert.match and assert.doesNotMatch)."
   }
 ]

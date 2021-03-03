@@ -12,17 +12,17 @@ _Concepts learned in this proyect:_
 * LocalStorage
 
 # Prerequisites 📋
-_Install Git with:_
+_Install [Git](https://git-scm.com/) with:_
 ```
 $ sudo apt install git
 ```
 
-_Install Node Js with:_
+_Install [NodeJs](https://nodejs.org/en/) Js with:_
 ```
 $ sudo apt install nodejs
 ```
 
-_Install NPM with:_
+_Install [NPM](https://www.npmjs.com/) with:_
 ```
 $ sudo apt install npm
 ```

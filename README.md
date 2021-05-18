@@ -1,6 +1,6 @@
 # React Gmail
 
-_Clone of Gmail app with React Js.This proyect show a inbox view with delete a email option._
+_Clone of Gmail inbox with React Js.This proyect show a inbox view with delete a email option._
 
 _Concepts learned in this proyect:_
 

@@ -14,10 +14,10 @@
     "fromName": "GitHub",
     "fromEmail": "noreply@github.com",
     "date": "13:51",
-    "subject": "Adalab/project-promo-i Local store #23",
+    "subject": "project-promo-i Local store #23",
     "deleted": false,
     "read": false,
-    "body": "You can view, comment on, or merge this pull request online at:<br/>https://github.com/Adalab/project-promo-h/pull/23<br/>Commit Summary<br/>Local storage wip<br/>Accept incoming changes<br/>Merge after dev with reset<br/>File Changes<br/>M src/components/App.js (22)<br/>M src/components/Form.js (2)<br/>A src/localStorage/localstorage.js (7)"
+    "body": "You can view, comment on, or merge this pull request online at:Commit Summary<br/>Local storage wip<br/>Accept incoming changes<br/>Merge after dev with reset<br/>File Changes<br/>M src/components/App.js (22)<br/>M src/components/Form.js (2)<br/>A src/localStorage/localstorage.js (7)"
   },
   {
     "id": "hfgh3",

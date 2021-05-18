@@ -93,7 +93,7 @@ class App extends React.Component {
       );
     return (
       <p className="mb-1">
-        La usuaria está visualizando los emails{" "}
+        El usuario está visualizando los emails{" "}
         <span className="text--bold">{emailType}</span> {text}
       </p>
     );

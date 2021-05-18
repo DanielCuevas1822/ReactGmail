@@ -49,6 +49,6 @@ _https://danielcuevas1822.github.io/ReactGmail/_
 
 # Thanks 🎁
 
-_https://www.frontendmentor.io/_
+_https://adalab.es/_
 
 _With ❤️ DanielCuevas1822_

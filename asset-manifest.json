@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactGmail/static/css/main.33507801.chunk.css",
+    "main.js": "/ReactGmail/static/js/main.385fa43e.chunk.js",
+    "main.js.map": "/ReactGmail/static/js/main.385fa43e.chunk.js.map",
+    "runtime-main.js": "/ReactGmail/static/js/runtime-main.b43bad29.js",
+    "runtime-main.js.map": "/ReactGmail/static/js/runtime-main.b43bad29.js.map",
+    "static/js/2.f08f6f65.chunk.js": "/ReactGmail/static/js/2.f08f6f65.chunk.js",
+    "static/js/2.f08f6f65.chunk.js.map": "/ReactGmail/static/js/2.f08f6f65.chunk.js.map",
+    "index.html": "/ReactGmail/index.html",
+    "static/css/main.33507801.chunk.css.map": "/ReactGmail/static/css/main.33507801.chunk.css.map",
+    "static/js/2.f08f6f65.chunk.js.LICENSE.txt": "/ReactGmail/static/js/2.f08f6f65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b43bad29.js",
+    "static/js/2.f08f6f65.chunk.js",
+    "static/css/main.33507801.chunk.css",
+    "static/js/main.385fa43e.chunk.js"
+  ]
+}
